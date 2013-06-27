@@ -1,0 +1,6 @@
+<Alloy>
+  <Window>
+    <Button platform="android">Hi, Android</Button>
+    <Button platform="ios,blackberry">Hi, iOS and Blackberry</Button>
+  </Window>
+</Alloy>
